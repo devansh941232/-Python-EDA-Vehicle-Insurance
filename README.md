@@ -4,6 +4,8 @@ Welcome to the Vehicle Insurance EDA (Exploratory Data Analysis) project! In thi
 
 ---
 
+![Vehicle Insurance](https://github.com/devansh941232/-Python-EDA-Vehicle-Insurance/raw/main/Vehicle%20Insurance.png)
+
 ## 📌 Project Overview
 
 This project aims to analyze a dataset containing over **381,000 records** of vehicle insurance data. By conducting detailed EDA, I explored customer demographics, premium distributions, claim patterns, and regional trends. The goal was to derive valuable insights into customer behavior and claims, enabling data-driven decision-making for the insurance sector.
